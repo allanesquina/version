@@ -10,7 +10,6 @@
 
 	proto.version = '@VERSION';
 
-
 	console.log( new module().version )
 
 })( document, window );
